@@ -31,7 +31,7 @@ body {
 }
 
 #banner .content h1 {
-  border: 3px solid Black;
+  border: 3px solid black;
   position: relative;
   top: 50px;
   width: 400px;
@@ -87,7 +87,7 @@ p {
 .byline {
   border-bottom: 1px solid LightGrey;
   border-top: 1px solid LightGrey;
-  color: DarkGrey;
+  color: black;
   font-size: 14px;
   font-weight: 200;
 }
