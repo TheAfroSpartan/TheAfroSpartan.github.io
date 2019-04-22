@@ -4,16 +4,15 @@ body {
 }
 
 #yeet {
-  height: 200px; 
+  height: 100px; 
   background-color: white; 
-  background-image: linear-gradient(white, Blue);
+  background-image: linear-gradient(white, #2CDFC1);
 }
 
 .navigation ul {
-  text-align:center; 
-  font-size:40px; 
-  font-weight:bold; 
-  padding-top:80px; 
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
 
 .navigation li {
