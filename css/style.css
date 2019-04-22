@@ -3,10 +3,17 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
+#yeet {
+  height: 200px; 
+  background-color: white; 
+  background-image: linear-gradient(white, blue);
+}
+
 .navigation ul {
-  margin: 0;
-  padding: 0;
-  text-align: center;
+  text-align:center; 
+  font-size:40px; 
+  font-weight:bold; 
+  padding-top:80px; 
 }
 
 .navigation li {
