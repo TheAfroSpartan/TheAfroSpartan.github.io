@@ -55,8 +55,8 @@ h1 {
 }
 
 h2 {
-  border: 1px dotted red;
-  color: red;
+  border: 1px dotted green;
+  color: green;
   font-size: 14px;
   line-height: 48px;
   padding: 20px 30px;
@@ -65,7 +65,7 @@ h2 {
 }
 
 h3 {
-  color: red;
+  color: green;
   font-size: 26px;
   font-weight: 700;
   padding: 20px 10px;
@@ -101,8 +101,8 @@ p {
 }
 
 .share a {
-  background: red;
-  border: 1px solid red;
+  background: green;
+  border: 1px solid green;
   border-radius: 3px;
   color: white;
   display: inline-block;
@@ -113,6 +113,6 @@ p {
 
 .share a:hover {
   background: white;
-  border: 1px solid red;
-  color: red;
+  border: 1px solid green;
+  color: green;
 }
